@@ -1,0 +1,16 @@
+
+{
+  "name": "cloud-deployed-nodejs-app",
+  "version": "1.0.0",
+  "description": "A Node.js application deployed on AWS EC2 using Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
